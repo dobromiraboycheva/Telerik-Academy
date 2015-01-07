@@ -1,0 +1,9 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Intro-Programming-Homework\Homework_Introduction_to_Programming\Intro-Programming-Homework\After10Years\bin\Debug\After10Years.exe.config
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Intro-Programming-Homework\Homework_Introduction_to_Programming\Intro-Programming-Homework\After10Years\bin\Debug\After10Years.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Intro-Programming-Homework\Homework_Introduction_to_Programming\Intro-Programming-Homework\After10Years\bin\Debug\After10Years.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Intro-Programming-Homework\Homework_Introduction_to_Programming\Intro-Programming-Homework\After10Years\obj\Debug\AgeAfter10Years.csprojResolveAssemblyReference.cache
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Intro-Programming-Homework\Homework_Introduction_to_Programming\Intro-Programming-Homework\After10Years\obj\Debug\After10Years.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Intro-Programming-Homework\Homework_Introduction_to_Programming\Intro-Programming-Homework\After10Years\obj\Debug\After10Years.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Intro-Programming-Homework\After10Years\bin\Debug\After10Years.exe.config
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Intro-Programming-Homework\After10Years\obj\Debug\After10Years.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Intro-Programming-Homework\After10Years\obj\Debug\After10Years.pdb

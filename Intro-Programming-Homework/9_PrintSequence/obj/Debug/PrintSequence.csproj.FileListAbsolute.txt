@@ -1,0 +1,6 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Intro-Programming-Homework\Homework_Introduction_to_Programming\Intro-Programming-Homework\PrintSequence\bin\Debug\PrintSequence.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Intro-Programming-Homework\Homework_Introduction_to_Programming\Intro-Programming-Homework\PrintSequence\bin\Debug\PrintSequence.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Intro-Programming-Homework\Homework_Introduction_to_Programming\Intro-Programming-Homework\PrintSequence\obj\Debug\PrintSequence.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Intro-Programming-Homework\Homework_Introduction_to_Programming\Intro-Programming-Homework\PrintSequence\obj\Debug\PrintSequence.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Intro-Programming-Homework\PrintSequence\obj\Debug\PrintSequence.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Intro-Programming-Homework\PrintSequence\obj\Debug\PrintSequence.pdb

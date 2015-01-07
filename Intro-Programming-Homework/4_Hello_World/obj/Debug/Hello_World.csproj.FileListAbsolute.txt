@@ -1,0 +1,7 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Intro-Programming-Homework\Homework_Introduction_to_Programming\Intro-Programming-Homework\Hello_World\bin\Debug\Hello_World.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Intro-Programming-Homework\Homework_Introduction_to_Programming\Intro-Programming-Homework\Hello_World\bin\Debug\Hello_World.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Intro-Programming-Homework\Homework_Introduction_to_Programming\Intro-Programming-Homework\Hello_World\obj\Debug\Hello_World.csprojResolveAssemblyReference.cache
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Intro-Programming-Homework\Homework_Introduction_to_Programming\Intro-Programming-Homework\Hello_World\obj\Debug\Hello_World.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Intro-Programming-Homework\Homework_Introduction_to_Programming\Intro-Programming-Homework\Hello_World\obj\Debug\Hello_World.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Intro-Programming-Homework\Hello_World\obj\Debug\Hello_World.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Intro-Programming-Homework\Hello_World\obj\Debug\Hello_World.pdb

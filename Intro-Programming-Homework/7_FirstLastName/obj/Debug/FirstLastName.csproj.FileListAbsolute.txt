@@ -1,0 +1,6 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Intro-Programming-Homework\Homework_Introduction_to_Programming\Intro-Programming-Homework\FirstLastName\bin\Debug\FirstLastName.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Intro-Programming-Homework\Homework_Introduction_to_Programming\Intro-Programming-Homework\FirstLastName\bin\Debug\FirstLastName.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Intro-Programming-Homework\Homework_Introduction_to_Programming\Intro-Programming-Homework\FirstLastName\obj\Debug\FirstLastName.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Intro-Programming-Homework\Homework_Introduction_to_Programming\Intro-Programming-Homework\FirstLastName\obj\Debug\FirstLastName.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Intro-Programming-Homework\FirstLastName\obj\Debug\FirstLastName.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Intro-Programming-Homework\FirstLastName\obj\Debug\FirstLastName.pdb

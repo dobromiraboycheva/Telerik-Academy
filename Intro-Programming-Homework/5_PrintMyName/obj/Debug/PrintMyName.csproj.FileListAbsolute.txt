@@ -1,0 +1,6 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Intro-Programming-Homework\Homework_Introduction_to_Programming\Intro-Programming-Homework\PrintMyName\bin\Debug\PrintMyName.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Intro-Programming-Homework\Homework_Introduction_to_Programming\Intro-Programming-Homework\PrintMyName\bin\Debug\PrintMyName.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Intro-Programming-Homework\Homework_Introduction_to_Programming\Intro-Programming-Homework\PrintMyName\obj\Debug\PrintMyName.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Intro-Programming-Homework\Homework_Introduction_to_Programming\Intro-Programming-Homework\PrintMyName\obj\Debug\PrintMyName.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Intro-Programming-Homework\PrintMyName\obj\Debug\PrintMyName.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Intro-Programming-Homework\PrintMyName\obj\Debug\PrintMyName.pdb

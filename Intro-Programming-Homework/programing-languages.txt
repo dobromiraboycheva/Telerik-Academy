@@ -1,0 +1,34 @@
+C# and Java
+C# and Java have built-in garbage collection.
+Java and C# were designed to be type-safe. 
+Any class in either language implicitly subclasses an object.
+C# us single-root type system but Java is not.
+C# allows value types to be "lifted" to allow the special null value in addition to the type's native values.
+Java does not permit pointers or pointer-arithmetic within the Java runtime environment. 
+
+C# and C
+C is compiled language, whereas C# is an Interpreted language. 
+C# is the latest version of the C style languages and is very good for developing web applications.
+C is a relatively small language and is no object oriented wherebyC# is object oriented.
+
+C# and C++
+C# can use strings for case statements whereas C++ can only use integers.
+They both derive syntax from C.
+They both have objects but in C# the objects are managed objects and are garbage collected, in C++ you have to manage memory yourself.
+C++ supports multiple inheritance, C# does not .
+C++ has templates, C# has generics.
+C++ is generally compiled to native code, C# is generally compiled to intermediate language bytecode.
+
+C# and Python
+Python is strongly typed. A list or integer or dictionary is always of the given type. 
+The object's type cannot be changed.
+Python variables are just labels on objects. Variables are not declared; hence the description of Python as "dynamic".
+C# is statically typed. The variables are declared to the compiler to be of a specific type. 
+The code is generated based on certain knowledge about the variables use at run-time.
+ 
+C# and JavaScript
+They are not first class in C#, in that they are merely methods there, attached to a class. Method delegates (and lambdas) are specific classes for the purpose of making methods like first class citizens.
+JavaScript has a lot less parts than C#. 
+JavaScript functions can be created and assigned to a variable, they're first class citizens in the language and have some more flexibility over the syntactical sugar that C# has applied.
+ 
+	
