@@ -1,0 +1,4 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Primitive Data Types and Variables\11_Bank_Account_Data\bin\Debug\11_Bank_Account_Data.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Primitive Data Types and Variables\11_Bank_Account_Data\bin\Debug\11_Bank_Account_Data.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Primitive Data Types and Variables\11_Bank_Account_Data\obj\Debug\11_Bank_Account_Data.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Primitive Data Types and Variables\11_Bank_Account_Data\obj\Debug\11_Bank_Account_Data.pdb

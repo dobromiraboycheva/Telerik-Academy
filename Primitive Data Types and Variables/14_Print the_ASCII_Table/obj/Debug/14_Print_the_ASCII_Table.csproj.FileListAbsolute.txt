@@ -1,0 +1,5 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Primitive Data Types and Variables\14_Print the_ASCII_Table\bin\Debug\14_Print the_ASCII_Table.exe.config
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Primitive Data Types and Variables\14_Print the_ASCII_Table\bin\Debug\14_Print the_ASCII_Table.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Primitive Data Types and Variables\14_Print the_ASCII_Table\bin\Debug\14_Print the_ASCII_Table.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Primitive Data Types and Variables\14_Print the_ASCII_Table\obj\Debug\14_Print the_ASCII_Table.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Primitive Data Types and Variables\14_Print the_ASCII_Table\obj\Debug\14_Print the_ASCII_Table.pdb

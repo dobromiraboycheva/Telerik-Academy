@@ -1,0 +1,4 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Primitive Data Types and Variables\02_Float_or_Double\bin\Debug\02_Float_or_Double.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Primitive Data Types and Variables\02_Float_or_Double\bin\Debug\02_Float_or_Double.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Primitive Data Types and Variables\02_Float_or_Double\obj\Debug\02_Float_or_Double.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Primitive Data Types and Variables\02_Float_or_Double\obj\Debug\02_Float_or_Double.pdb

@@ -1,0 +1,4 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Primitive Data Types and Variables\13_Comparing_Floats\bin\Debug\13_Comparing_Floats.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Primitive Data Types and Variables\13_Comparing_Floats\bin\Debug\13_Comparing_Floats.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Primitive Data Types and Variables\13_Comparing_Floats\obj\Debug\13_Comparing_Floats.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Primitive Data Types and Variables\13_Comparing_Floats\obj\Debug\13_Comparing_Floats.pdb

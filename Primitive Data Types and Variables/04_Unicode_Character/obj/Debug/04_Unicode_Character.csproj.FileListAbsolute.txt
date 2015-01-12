@@ -1,0 +1,4 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Primitive Data Types and Variables\04_Unicode_Character\bin\Debug\04_Unicode_Character.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Primitive Data Types and Variables\04_Unicode_Character\bin\Debug\04_Unicode_Character.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Primitive Data Types and Variables\04_Unicode_Character\obj\Debug\04_Unicode_Character.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Primitive Data Types and Variables\04_Unicode_Character\obj\Debug\04_Unicode_Character.pdb

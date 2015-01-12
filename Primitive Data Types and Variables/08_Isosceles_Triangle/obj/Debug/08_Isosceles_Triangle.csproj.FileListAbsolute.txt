@@ -1,0 +1,4 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Primitive Data Types and Variables\08_Isosceles_Triangle\bin\Debug\08_Isosceles_Triangle.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Primitive Data Types and Variables\08_Isosceles_Triangle\bin\Debug\08_Isosceles_Triangle.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Primitive Data Types and Variables\08_Isosceles_Triangle\obj\Debug\08_Isosceles_Triangle.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Primitive Data Types and Variables\08_Isosceles_Triangle\obj\Debug\08_Isosceles_Triangle.pdb

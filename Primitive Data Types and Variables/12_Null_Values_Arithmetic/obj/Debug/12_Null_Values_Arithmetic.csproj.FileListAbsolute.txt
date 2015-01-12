@@ -1,0 +1,4 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Primitive Data Types and Variables\12_Null_Values_Arithmetic\bin\Debug\12_Null_Values_Arithmetic.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Primitive Data Types and Variables\12_Null_Values_Arithmetic\bin\Debug\12_Null_Values_Arithmetic.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Primitive Data Types and Variables\12_Null_Values_Arithmetic\obj\Debug\12_Null_Values_Arithmetic.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Primitive Data Types and Variables\12_Null_Values_Arithmetic\obj\Debug\12_Null_Values_Arithmetic.pdb

@@ -1,0 +1,4 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Primitive Data Types and Variables\06_Strings_and_Objects\bin\Debug\06_Strings_and_Objects.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Primitive Data Types and Variables\06_Strings_and_Objects\bin\Debug\06_Strings_and_Objects.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Primitive Data Types and Variables\06_Strings_and_Objects\obj\Debug\06_Strings_and_Objects.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Primitive Data Types and Variables\06_Strings_and_Objects\obj\Debug\06_Strings_and_Objects.pdb

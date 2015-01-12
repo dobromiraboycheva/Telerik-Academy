@@ -1,0 +1,4 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Primitive Data Types and Variables\09_Exchange_Variable _Value\bin\Debug\09_Exchange_Variable _Value.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Primitive Data Types and Variables\09_Exchange_Variable _Value\bin\Debug\09_Exchange_Variable _Value.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Primitive Data Types and Variables\09_Exchange_Variable _Value\obj\Debug\09_Exchange_Variable _Value.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Primitive Data Types and Variables\09_Exchange_Variable _Value\obj\Debug\09_Exchange_Variable _Value.pdb

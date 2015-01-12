@@ -1,0 +1,4 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Primitive Data Types and Variables\07_Quotes_in_Strings\bin\Debug\07_Quotes_in_Strings.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Primitive Data Types and Variables\07_Quotes_in_Strings\bin\Debug\07_Quotes_in_Strings.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Primitive Data Types and Variables\07_Quotes_in_Strings\obj\Debug\07_Quotes_in_Strings.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Primitive Data Types and Variables\07_Quotes_in_Strings\obj\Debug\07_Quotes_in_Strings.pdb

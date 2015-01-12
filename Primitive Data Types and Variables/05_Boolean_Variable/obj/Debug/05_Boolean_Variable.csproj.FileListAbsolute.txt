@@ -1,0 +1,4 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Primitive Data Types and Variables\05_Boolean_Variable\bin\Debug\05_Boolean_Variable.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Primitive Data Types and Variables\05_Boolean_Variable\bin\Debug\05_Boolean_Variable.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Primitive Data Types and Variables\05_Boolean_Variable\obj\Debug\05_Boolean_Variable.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Primitive Data Types and Variables\05_Boolean_Variable\obj\Debug\05_Boolean_Variable.pdb

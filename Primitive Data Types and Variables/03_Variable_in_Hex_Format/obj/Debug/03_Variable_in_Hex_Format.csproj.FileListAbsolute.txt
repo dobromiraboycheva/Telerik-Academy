@@ -1,0 +1,4 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Primitive Data Types and Variables\03_Variable_in_Hex_Format\bin\Debug\03_Variable_in_Hex_Format.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Primitive Data Types and Variables\03_Variable_in_Hex_Format\bin\Debug\03_Variable_in_Hex_Format.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Primitive Data Types and Variables\03_Variable_in_Hex_Format\obj\Debug\03_Variable_in_Hex_Format.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Primitive Data Types and Variables\03_Variable_in_Hex_Format\obj\Debug\03_Variable_in_Hex_Format.pdb
