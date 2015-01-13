@@ -1,0 +1,4 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Operators and Expressions\10_Point_In_Circle_Out_Rect\bin\Debug\10_Point_In_Circle_Out_Rect.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Operators and Expressions\10_Point_In_Circle_Out_Rect\bin\Debug\10_Point_In_Circle_Out_Rect.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Operators and Expressions\10_Point_In_Circle_Out_Rect\obj\Debug\10_Point_In_Circle_Out_Rect.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Operators and Expressions\10_Point_In_Circle_Out_Rect\obj\Debug\10_Point_In_Circle_Out_Rect.pdb

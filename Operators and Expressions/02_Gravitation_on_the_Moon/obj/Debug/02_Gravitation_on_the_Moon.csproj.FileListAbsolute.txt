@@ -1,0 +1,4 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Operators and Expressions\02_Gravitation_on_the_Moon\bin\Debug\02_Gravitation_on_the_Moon.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Operators and Expressions\02_Gravitation_on_the_Moon\bin\Debug\02_Gravitation_on_the_Moon.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Operators and Expressions\02_Gravitation_on_the_Moon\obj\Debug\02_Gravitation_on_the_Moon.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Operators and Expressions\02_Gravitation_on_the_Moon\obj\Debug\02_Gravitation_on_the_Moon.pdb

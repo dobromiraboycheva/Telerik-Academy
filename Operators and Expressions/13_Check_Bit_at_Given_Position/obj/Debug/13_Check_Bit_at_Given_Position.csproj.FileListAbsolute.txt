@@ -1,0 +1,4 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Operators and Expressions\13_Check_Bit_at_Given_Position\bin\Debug\13_Check_Bit_at_Given_Position.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Operators and Expressions\13_Check_Bit_at_Given_Position\bin\Debug\13_Check_Bit_at_Given_Position.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Operators and Expressions\13_Check_Bit_at_Given_Position\obj\Debug\13_Check_Bit_at_Given_Position.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Operators and Expressions\13_Check_Bit_at_Given_Position\obj\Debug\13_Check_Bit_at_Given_Position.pdb

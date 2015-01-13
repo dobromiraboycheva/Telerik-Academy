@@ -1,0 +1,4 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Operators and Expressions\03_Divide_by_7_and_5\bin\Debug\03_Divide_by_7_and_5.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Operators and Expressions\03_Divide_by_7_and_5\bin\Debug\03_Divide_by_7_and_5.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Operators and Expressions\03_Divide_by_7_and_5\obj\Debug\03_Divide_by_7_and_5.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Operators and Expressions\03_Divide_by_7_and_5\obj\Debug\03_Divide_by_7_and_5.pdb

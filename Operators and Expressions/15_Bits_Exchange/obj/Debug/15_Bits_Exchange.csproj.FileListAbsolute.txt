@@ -1,0 +1,4 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Operators and Expressions\15_Bits_Exchange\bin\Debug\15_Bits_Exchange.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Operators and Expressions\15_Bits_Exchange\bin\Debug\15_Bits_Exchange.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Operators and Expressions\15_Bits_Exchange\obj\Debug\15_Bits_Exchange.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Operators and Expressions\15_Bits_Exchange\obj\Debug\15_Bits_Exchange.pdb

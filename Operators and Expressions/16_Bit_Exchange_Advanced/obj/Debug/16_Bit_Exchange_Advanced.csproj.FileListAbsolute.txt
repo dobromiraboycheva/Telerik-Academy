@@ -1,0 +1,5 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Operators and Expressions\16_Bit_Exchange_Advanced\bin\Debug\16_Bit_Exchange_Advanced.exe.config
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Operators and Expressions\16_Bit_Exchange_Advanced\bin\Debug\16_Bit_Exchange_Advanced.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Operators and Expressions\16_Bit_Exchange_Advanced\bin\Debug\16_Bit_Exchange_Advanced.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Operators and Expressions\16_Bit_Exchange_Advanced\obj\Debug\16_Bit_Exchange_Advanced.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Operators and Expressions\16_Bit_Exchange_Advanced\obj\Debug\16_Bit_Exchange_Advanced.pdb

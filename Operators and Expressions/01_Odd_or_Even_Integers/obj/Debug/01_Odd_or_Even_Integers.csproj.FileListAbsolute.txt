@@ -1,0 +1,5 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Operators and Expressions\01_Odd_or_Even_Integers\bin\Debug\01_Odd_or_Even_Integers.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Operators and Expressions\01_Odd_or_Even_Integers\bin\Debug\01_Odd_or_Even_Integers.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Operators and Expressions\01_Odd_or_Even_Integers\obj\Debug\01_Odd_or_Even_Integers.csprojResolveAssemblyReference.cache
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Operators and Expressions\01_Odd_or_Even_Integers\obj\Debug\01_Odd_or_Even_Integers.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Operators and Expressions\01_Odd_or_Even_Integers\obj\Debug\01_Odd_or_Even_Integers.pdb

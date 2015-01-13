@@ -1,0 +1,4 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Operators and Expressions\11_Bitwise_Extract_Bit_3\bin\Debug\11_Bitwise_Extract_Bit_3.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Operators and Expressions\11_Bitwise_Extract_Bit_3\bin\Debug\11_Bitwise_Extract_Bit_3.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Operators and Expressions\11_Bitwise_Extract_Bit_3\obj\Debug\11_Bitwise_Extract_Bit_3.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Operators and Expressions\11_Bitwise_Extract_Bit_3\obj\Debug\11_Bitwise_Extract_Bit_3.pdb

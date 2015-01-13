@@ -1,0 +1,4 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Operators and Expressions\14_Modify_Bit_at_Given_Position\bin\Debug\14_Modify_Bit_at_Given_Position.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Operators and Expressions\14_Modify_Bit_at_Given_Position\bin\Debug\14_Modify_Bit_at_Given_Position.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Operators and Expressions\14_Modify_Bit_at_Given_Position\obj\Debug\14_Modify_Bit_at_Given_Position.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Operators and Expressions\14_Modify_Bit_at_Given_Position\obj\Debug\14_Modify_Bit_at_Given_Position.pdb
