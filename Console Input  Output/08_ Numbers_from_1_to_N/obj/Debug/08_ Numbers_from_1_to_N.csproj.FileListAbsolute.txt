@@ -1,0 +1,4 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Console Input  Output\08_ Numbers_from_1_to_N\bin\Debug\08_ Numbers_from_1_to_N.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Console Input  Output\08_ Numbers_from_1_to_N\bin\Debug\08_ Numbers_from_1_to_N.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Console Input  Output\08_ Numbers_from_1_to_N\obj\Debug\08_ Numbers_from_1_to_N.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Console Input  Output\08_ Numbers_from_1_to_N\obj\Debug\08_ Numbers_from_1_to_N.pdb

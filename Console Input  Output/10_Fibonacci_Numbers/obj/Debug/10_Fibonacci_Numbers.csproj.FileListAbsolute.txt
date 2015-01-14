@@ -1,0 +1,5 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Console Input  Output\10_Fibonacci_Numbers\bin\Debug\10_Fibonacci_Numbers.exe.config
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Console Input  Output\10_Fibonacci_Numbers\bin\Debug\10_Fibonacci_Numbers.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Console Input  Output\10_Fibonacci_Numbers\bin\Debug\10_Fibonacci_Numbers.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Console Input  Output\10_Fibonacci_Numbers\obj\Debug\10_Fibonacci_Numbers.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Console Input  Output\10_Fibonacci_Numbers\obj\Debug\10_Fibonacci_Numbers.pdb

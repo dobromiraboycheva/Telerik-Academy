@@ -1,0 +1,4 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Console Input  Output\11_Numbers_in_Interval_Dividable\bin\Debug\11_Numbers_in_Interval_Dividable.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Console Input  Output\11_Numbers_in_Interval_Dividable\bin\Debug\11_Numbers_in_Interval_Dividable.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Console Input  Output\11_Numbers_in_Interval_Dividable\obj\Debug\11_Numbers_in_Interval_Dividable.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Console Input  Output\11_Numbers_in_Interval_Dividable\obj\Debug\11_Numbers_in_Interval_Dividable.pdb

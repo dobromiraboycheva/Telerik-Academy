@@ -1,0 +1,4 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Console Input  Output\02_Print_Company_Information\bin\Debug\02_Print_Company_Information.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Console Input  Output\02_Print_Company_Information\bin\Debug\02_Print_Company_Information.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Console Input  Output\02_Print_Company_Information\obj\Debug\02_Print_Company_Information.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Console Input  Output\02_Print_Company_Information\obj\Debug\02_Print_Company_Information.pdb

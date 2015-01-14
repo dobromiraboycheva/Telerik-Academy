@@ -1,0 +1,4 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Console Input  Output\06_Quadratic_Equation\bin\Debug\06_Quadratic_Equation.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Console Input  Output\06_Quadratic_Equation\bin\Debug\06_Quadratic_Equation.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Console Input  Output\06_Quadratic_Equation\obj\Debug\06_Quadratic_Equation.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Console Input  Output\06_Quadratic_Equation\obj\Debug\06_Quadratic_Equation.pdb

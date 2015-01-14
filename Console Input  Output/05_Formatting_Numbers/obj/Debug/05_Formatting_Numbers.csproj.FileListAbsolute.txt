@@ -1,0 +1,4 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Console Input  Output\05_Formatting_Numbers\bin\Debug\05_Formatting_Numbers.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Console Input  Output\05_Formatting_Numbers\bin\Debug\05_Formatting_Numbers.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Console Input  Output\05_Formatting_Numbers\obj\Debug\05_Formatting_Numbers.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Console Input  Output\05_Formatting_Numbers\obj\Debug\05_Formatting_Numbers.pdb

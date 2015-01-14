@@ -1,0 +1,4 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Console Input  Output\07_Sum_of_5_Numbers\bin\Debug\07_Sum_of_5_Numbers.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Console Input  Output\07_Sum_of_5_Numbers\bin\Debug\07_Sum_of_5_Numbers.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Console Input  Output\07_Sum_of_5_Numbers\obj\Debug\07_Sum_of_5_Numbers.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Console Input  Output\07_Sum_of_5_Numbers\obj\Debug\07_Sum_of_5_Numbers.pdb
