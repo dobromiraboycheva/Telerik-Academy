@@ -1,0 +1,4 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Conditional Statements\04_Multiplication_Sign\bin\Debug\04_Multiplication_Sign.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Conditional Statements\04_Multiplication_Sign\bin\Debug\04_Multiplication_Sign.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Conditional Statements\04_Multiplication_Sign\obj\Debug\04_Multiplication_Sign.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Conditional Statements\04_Multiplication_Sign\obj\Debug\04_Multiplication_Sign.pdb

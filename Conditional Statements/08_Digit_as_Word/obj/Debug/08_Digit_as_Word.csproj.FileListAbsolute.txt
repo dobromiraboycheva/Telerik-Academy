@@ -1,0 +1,4 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Conditional Statements\08_Digit_as_Word\bin\Debug\08_Digit_as_Word.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Conditional Statements\08_Digit_as_Word\bin\Debug\08_Digit_as_Word.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Conditional Statements\08_Digit_as_Word\obj\Debug\08_Digit_as_Word.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Conditional Statements\08_Digit_as_Word\obj\Debug\08_Digit_as_Word.pdb

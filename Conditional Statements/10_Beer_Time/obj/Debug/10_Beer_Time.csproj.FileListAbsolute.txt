@@ -1,0 +1,4 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Conditional Statements\10_Beer_Time\bin\Debug\10_Beer_Time.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Conditional Statements\10_Beer_Time\bin\Debug\10_Beer_Time.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Conditional Statements\10_Beer_Time\obj\Debug\10_Beer_Time.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Conditional Statements\10_Beer_Time\obj\Debug\10_Beer_Time.pdb

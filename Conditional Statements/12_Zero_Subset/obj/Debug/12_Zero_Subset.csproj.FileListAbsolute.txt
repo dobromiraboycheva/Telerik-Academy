@@ -1,0 +1,4 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Conditional Statements\12_Zero_Subset\bin\Debug\12_Zero_Subset.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Conditional Statements\12_Zero_Subset\bin\Debug\12_Zero_Subset.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Conditional Statements\12_Zero_Subset\obj\Debug\12_Zero_Subset.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Conditional Statements\12_Zero_Subset\obj\Debug\12_Zero_Subset.pdb

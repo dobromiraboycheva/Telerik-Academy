@@ -1,0 +1,4 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Conditional Statements\02_Bonus_Score\bin\Debug\02_Bonus_Score.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Conditional Statements\02_Bonus_Score\bin\Debug\02_Bonus_Score.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Conditional Statements\02_Bonus_Score\obj\Debug\02_Bonus_Score.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Conditional Statements\02_Bonus_Score\obj\Debug\02_Bonus_Score.pdb

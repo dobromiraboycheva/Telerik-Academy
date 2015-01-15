@@ -1,0 +1,4 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Conditional Statements\07_Sort_3_Numbers_with_Nested_Ifs\bin\Debug\07_Sort_3_Numbers_with_Nested_Ifs.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Conditional Statements\07_Sort_3_Numbers_with_Nested_Ifs\bin\Debug\07_Sort_3_Numbers_with_Nested_Ifs.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Conditional Statements\07_Sort_3_Numbers_with_Nested_Ifs\obj\Debug\07_Sort_3_Numbers_with_Nested_Ifs.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Conditional Statements\07_Sort_3_Numbers_with_Nested_Ifs\obj\Debug\07_Sort_3_Numbers_with_Nested_Ifs.pdb

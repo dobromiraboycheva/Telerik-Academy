@@ -1,0 +1,5 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Conditional Statements\06_The Biggest_of_Five_Numbers\bin\Debug\06_The Biggest_of_Five_Numbers.exe.config
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Conditional Statements\06_The Biggest_of_Five_Numbers\bin\Debug\06_The Biggest_of_Five_Numbers.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Conditional Statements\06_The Biggest_of_Five_Numbers\bin\Debug\06_The Biggest_of_Five_Numbers.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Conditional Statements\06_The Biggest_of_Five_Numbers\obj\Debug\06_The Biggest_of_Five_Numbers.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Conditional Statements\06_The Biggest_of_Five_Numbers\obj\Debug\06_The Biggest_of_Five_Numbers.pdb

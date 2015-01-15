@@ -1,0 +1,4 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Conditional Statements\01_Exchange_If_Greater\bin\Debug\01_Exchange_If_Greater.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Conditional Statements\01_Exchange_If_Greater\bin\Debug\01_Exchange_If_Greater.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Conditional Statements\01_Exchange_If_Greater\obj\Debug\01_Exchange_If_Greater.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Conditional Statements\01_Exchange_If_Greater\obj\Debug\01_Exchange_If_Greater.pdb

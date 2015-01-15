@@ -1,0 +1,4 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Conditional Statements\11_Number_as_Words\bin\Debug\11_Number_as_Words.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Conditional Statements\11_Number_as_Words\bin\Debug\11_Number_as_Words.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Conditional Statements\11_Number_as_Words\obj\Debug\11_Number_as_Words.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Conditional Statements\11_Number_as_Words\obj\Debug\11_Number_as_Words.pdb
