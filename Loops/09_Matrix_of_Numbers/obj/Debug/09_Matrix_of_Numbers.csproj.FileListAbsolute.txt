@@ -1,0 +1,4 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Loops\09_Matrix_of_Numbers\bin\Debug\09_Matrix_of_Numbers.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Loops\09_Matrix_of_Numbers\bin\Debug\09_Matrix_of_Numbers.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Loops\09_Matrix_of_Numbers\obj\Debug\09_Matrix_of_Numbers.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Loops\09_Matrix_of_Numbers\obj\Debug\09_Matrix_of_Numbers.pdb

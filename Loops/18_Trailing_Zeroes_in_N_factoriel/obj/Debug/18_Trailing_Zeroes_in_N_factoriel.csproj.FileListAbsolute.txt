@@ -1,0 +1,4 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Loops\18_Trailing_Zeroes_in_N_factoriel\bin\Debug\18_Trailing_Zeroes_in_N_factoriel.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Loops\18_Trailing_Zeroes_in_N_factoriel\bin\Debug\18_Trailing_Zeroes_in_N_factoriel.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Loops\18_Trailing_Zeroes_in_N_factoriel\obj\Debug\18_Trailing_Zeroes_in_N_factoriel.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Loops\18_Trailing_Zeroes_in_N_factoriel\obj\Debug\18_Trailing_Zeroes_in_N_factoriel.pdb

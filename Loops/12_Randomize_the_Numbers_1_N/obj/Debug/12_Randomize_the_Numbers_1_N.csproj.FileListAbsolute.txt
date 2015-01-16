@@ -1,0 +1,4 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Loops\12_Randomize_the_Numbers_1_N\bin\Debug\12_Randomize_the_Numbers_1_N.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Loops\12_Randomize_the_Numbers_1_N\bin\Debug\12_Randomize_the_Numbers_1_N.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Loops\12_Randomize_the_Numbers_1_N\obj\Debug\12_Randomize_the_Numbers_1_N.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Loops\12_Randomize_the_Numbers_1_N\obj\Debug\12_Randomize_the_Numbers_1_N.pdb

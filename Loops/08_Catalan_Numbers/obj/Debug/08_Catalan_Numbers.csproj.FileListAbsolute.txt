@@ -1,0 +1,6 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Loops\08_Catalan_Numbers\bin\Debug\08_Catalan_Numbers.exe.config
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Loops\08_Catalan_Numbers\obj\Debug\08_Catalan_Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Loops\08_Catalan_Numbers\bin\Debug\08_Catalan_Numbers.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Loops\08_Catalan_Numbers\bin\Debug\08_Catalan_Numbers.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Loops\08_Catalan_Numbers\obj\Debug\08_Catalan_Numbers.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Loops\08_Catalan_Numbers\obj\Debug\08_Catalan_Numbers.pdb

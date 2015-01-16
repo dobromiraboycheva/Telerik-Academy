@@ -1,0 +1,4 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Loops\13_Binary_to_Decimal_Number\bin\Debug\13_Binary_to_Decimal_Number.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Loops\13_Binary_to_Decimal_Number\bin\Debug\13_Binary_to_Decimal_Number.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Loops\13_Binary_to_Decimal_Number\obj\Debug\13_Binary_to_Decimal_Number.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Loops\13_Binary_to_Decimal_Number\obj\Debug\13_Binary_to_Decimal_Number.pdb

@@ -1,0 +1,4 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Loops\02_Numbers_Not_Divisible_by_3_and_7\bin\Debug\02_Numbers_Not_Divisible_by_3_and_7.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Loops\02_Numbers_Not_Divisible_by_3_and_7\bin\Debug\02_Numbers_Not_Divisible_by_3_and_7.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Loops\02_Numbers_Not_Divisible_by_3_and_7\obj\Debug\02_Numbers_Not_Divisible_by_3_and_7.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Loops\02_Numbers_Not_Divisible_by_3_and_7\obj\Debug\02_Numbers_Not_Divisible_by_3_and_7.pdb

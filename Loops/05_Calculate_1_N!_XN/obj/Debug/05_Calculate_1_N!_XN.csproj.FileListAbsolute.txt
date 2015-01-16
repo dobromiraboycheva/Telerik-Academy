@@ -1,0 +1,5 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Loops\05_Calculate_1_N!_XN\bin\Debug\05_Calculate_1_N!_XN.exe.config
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Loops\05_Calculate_1_N!_XN\bin\Debug\05_Calculate_1_N!_XN.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Loops\05_Calculate_1_N!_XN\bin\Debug\05_Calculate_1_N!_XN.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Loops\05_Calculate_1_N!_XN\obj\Debug\05_Calculate_1_N!_XN.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Loops\05_Calculate_1_N!_XN\obj\Debug\05_Calculate_1_N!_XN.pdb

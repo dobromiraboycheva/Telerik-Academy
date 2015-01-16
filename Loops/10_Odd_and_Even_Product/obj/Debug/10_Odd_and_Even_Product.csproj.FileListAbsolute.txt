@@ -1,0 +1,4 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Loops\10_Odd_and_Even_Product\bin\Debug\10_Odd_and_Even_Product.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Loops\10_Odd_and_Even_Product\bin\Debug\10_Odd_and_Even_Product.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Loops\10_Odd_and_Even_Product\obj\Debug\10_Odd_and_Even_Product.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Loops\10_Odd_and_Even_Product\obj\Debug\10_Odd_and_Even_Product.pdb

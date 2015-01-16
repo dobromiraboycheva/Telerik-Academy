@@ -1,0 +1,4 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Loops\16_Decimal_to_Hexadecimal_Number\bin\Debug\16_Decimal_to_Hexadecimal_Number.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Loops\16_Decimal_to_Hexadecimal_Number\bin\Debug\16_Decimal_to_Hexadecimal_Number.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Loops\16_Decimal_to_Hexadecimal_Number\obj\Debug\16_Decimal_to_Hexadecimal_Number.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Loops\16_Decimal_to_Hexadecimal_Number\obj\Debug\16_Decimal_to_Hexadecimal_Number.pdb
