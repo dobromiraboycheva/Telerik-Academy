@@ -1,0 +1,8 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\Binarry_digits\bin\Debug\Binarry_digits.exe.config
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\Binarry_digits\bin\Debug\Binarry_digits.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\Binarry_digits\bin\Debug\Binarry_digits.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\Binarry_digits\obj\Debug\Binarry_digits.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\Binarry_digits\obj\Debug\Binarry_digits.pdb
+C:\Users\Dobromira\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\Binarry_digits\bin\Debug\Binarry_digits.exe.config
+C:\Users\Dobromira\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\Binarry_digits\obj\Debug\Binarry_digits.exe
+C:\Users\Dobromira\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\Binarry_digits\obj\Debug\Binarry_digits.pdb

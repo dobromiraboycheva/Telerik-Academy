@@ -1,0 +1,6 @@
+C:\Users\Dobromira\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\Fire\bin\Debug\Fire.exe.config
+C:\Users\Dobromira\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\Fire\bin\Debug\Fire.exe
+C:\Users\Dobromira\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\Fire\bin\Debug\Fire.pdb
+C:\Users\Dobromira\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\Fire\obj\Debug\Fire.exe
+C:\Users\Dobromira\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\Fire\obj\Debug\Fire.pdb
+C:\Users\Dobromira\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\Fire\obj\Debug\Fire.csprojResolveAssemblyReference.cache

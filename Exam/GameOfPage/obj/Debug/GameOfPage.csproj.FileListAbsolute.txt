@@ -1,0 +1,9 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\GameOfPage\bin\Debug\GameOfPage.exe.config
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\GameOfPage\bin\Debug\GameOfPage.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\GameOfPage\bin\Debug\GameOfPage.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\GameOfPage\obj\Debug\GameOfPage.csprojResolveAssemblyReference.cache
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\GameOfPage\obj\Debug\GameOfPage.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\GameOfPage\obj\Debug\GameOfPage.pdb
+C:\Users\Dobromira\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\GameOfPage\bin\Debug\GameOfPage.exe.config
+C:\Users\Dobromira\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\GameOfPage\obj\Debug\GameOfPage.exe
+C:\Users\Dobromira\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\GameOfPage\obj\Debug\GameOfPage.pdb

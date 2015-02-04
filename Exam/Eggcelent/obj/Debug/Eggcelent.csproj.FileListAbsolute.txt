@@ -1,0 +1,6 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\Eggcelent\bin\Debug\Eggcelent.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\Eggcelent\bin\Debug\Eggcelent.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\Eggcelent\obj\Debug\Eggcelent.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\Eggcelent\obj\Debug\Eggcelent.pdb
+C:\Users\Dobromira\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\Eggcelent\obj\Debug\Eggcelent.exe
+C:\Users\Dobromira\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\Eggcelent\obj\Debug\Eggcelent.pdb

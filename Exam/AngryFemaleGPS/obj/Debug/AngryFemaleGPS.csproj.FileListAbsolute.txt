@@ -1,0 +1,7 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\AngryFemaleGPS\bin\Debug\AngryFemaleGPS.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\AngryFemaleGPS\bin\Debug\AngryFemaleGPS.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\AngryFemaleGPS\obj\Debug\AngryFemaleGPS.csprojResolveAssemblyReference.cache
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\AngryFemaleGPS\obj\Debug\AngryFemaleGPS.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\AngryFemaleGPS\obj\Debug\AngryFemaleGPS.pdb
+C:\Users\Dobromira\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\AngryFemaleGPS\obj\Debug\AngryFemaleGPS.exe
+C:\Users\Dobromira\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\AngryFemaleGPS\obj\Debug\AngryFemaleGPS.pdb

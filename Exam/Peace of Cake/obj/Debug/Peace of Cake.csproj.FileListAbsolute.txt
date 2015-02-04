@@ -1,0 +1,9 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\Peace of Cake\bin\Debug\Peace of Cake.exe.config
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\Peace of Cake\bin\Debug\Peace of Cake.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\Peace of Cake\bin\Debug\Peace of Cake.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\Peace of Cake\obj\Debug\Peace of Cake.csprojResolveAssemblyReference.cache
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\Peace of Cake\obj\Debug\Peace of Cake.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\Peace of Cake\obj\Debug\Peace of Cake.pdb
+C:\Users\Dobromira\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\Peace of Cake\bin\Debug\Peace of Cake.exe.config
+C:\Users\Dobromira\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\Peace of Cake\obj\Debug\Peace of Cake.exe
+C:\Users\Dobromira\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\Peace of Cake\obj\Debug\Peace of Cake.pdb

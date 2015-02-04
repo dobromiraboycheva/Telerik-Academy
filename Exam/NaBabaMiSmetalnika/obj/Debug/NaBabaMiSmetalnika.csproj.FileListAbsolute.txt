@@ -1,0 +1,10 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\NaBabaMiSmetalnika\bin\Debug\NaBabaMiSmetalnika.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\NaBabaMiSmetalnika\bin\Debug\NaBabaMiSmetalnika.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\NaBabaMiSmetalnika\obj\Debug\NaBabaMiSmetalnika.csprojResolveAssemblyReference.cache
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\NaBabaMiSmetalnika\obj\Debug\NaBabaMiSmetalnika.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\NaBabaMiSmetalnika\obj\Debug\NaBabaMiSmetalnika.pdb
+C:\Users\Dobromira\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\NaBabaMiSmetalnika\obj\Debug\NaBabaMiSmetalnika.exe
+C:\Users\Dobromira\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\NaBabaMiSmetalnika\obj\Debug\NaBabaMiSmetalnika.pdb
+C:\Users\Dobromira\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\NaBabaMiSmetalnika\bin\Debug\NaBabaMiSmetalnika.exe
+C:\Users\Dobromira\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\NaBabaMiSmetalnika\bin\Debug\NaBabaMiSmetalnika.pdb
+C:\Users\Dobromira\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\NaBabaMiSmetalnika\obj\Debug\NaBabaMiSmetalnika.csprojResolveAssemblyReference.cache

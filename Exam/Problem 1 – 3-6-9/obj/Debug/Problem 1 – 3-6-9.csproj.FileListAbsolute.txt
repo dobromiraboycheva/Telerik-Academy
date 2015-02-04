@@ -1,0 +1,6 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\Problem 1 – 3-6-9\bin\Debug\Problem 1 – 3-6-9.exe.config
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\Problem 1 – 3-6-9\bin\Debug\Problem 1 – 3-6-9.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\Problem 1 – 3-6-9\bin\Debug\Problem 1 – 3-6-9.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\Problem 1 – 3-6-9\obj\Debug\Problem 1 – 3-6-9.csprojResolveAssemblyReference.cache
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\Problem 1 – 3-6-9\obj\Debug\Problem 1 – 3-6-9.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\Problem 1 – 3-6-9\obj\Debug\Problem 1 – 3-6-9.pdb

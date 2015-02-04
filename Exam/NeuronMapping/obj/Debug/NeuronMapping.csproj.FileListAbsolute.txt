@@ -1,0 +1,6 @@
+C:\Users\Dobromira\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\NeuronMapping\bin\Debug\NeuronMapping.exe.config
+C:\Users\Dobromira\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\NeuronMapping\bin\Debug\NeuronMapping.exe
+C:\Users\Dobromira\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\NeuronMapping\bin\Debug\NeuronMapping.pdb
+C:\Users\Dobromira\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\NeuronMapping\obj\Debug\NeuronMapping.csprojResolveAssemblyReference.cache
+C:\Users\Dobromira\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\NeuronMapping\obj\Debug\NeuronMapping.exe
+C:\Users\Dobromira\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\NeuronMapping\obj\Debug\NeuronMapping.pdb

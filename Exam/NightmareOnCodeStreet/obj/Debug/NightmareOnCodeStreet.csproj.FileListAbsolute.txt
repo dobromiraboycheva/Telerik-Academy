@@ -1,0 +1,4 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\NightmareOnCodeStreet\bin\Debug\NightmareOnCodeStreet.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\NightmareOnCodeStreet\bin\Debug\NightmareOnCodeStreet.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\NightmareOnCodeStreet\obj\Debug\NightmareOnCodeStreet.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\NightmareOnCodeStreet\obj\Debug\NightmareOnCodeStreet.pdb

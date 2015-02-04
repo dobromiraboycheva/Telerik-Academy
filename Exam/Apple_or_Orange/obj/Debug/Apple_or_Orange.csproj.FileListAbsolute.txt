@@ -1,0 +1,6 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\Apple_or_Orange\bin\Debug\Apple_or_Orange.exe.config
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\Apple_or_Orange\obj\Debug\Apple_or_Orange.csprojResolveAssemblyReference.cache
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\Apple_or_Orange\bin\Debug\Apple_or_Orange.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\Apple_or_Orange\bin\Debug\Apple_or_Orange.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\Apple_or_Orange\obj\Debug\Apple_or_Orange.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\Apple_or_Orange\obj\Debug\Apple_or_Orange.pdb

@@ -1,0 +1,9 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\Bit_Tower_of_doom\bin\Debug\Bit_Tower_of_doom.exe.config
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\Bit_Tower_of_doom\obj\Debug\Bit_Tower_of_doom.csprojResolveAssemblyReference.cache
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\Bit_Tower_of_doom\bin\Debug\Bit_Tower_of_doom.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\Bit_Tower_of_doom\bin\Debug\Bit_Tower_of_doom.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\Bit_Tower_of_doom\obj\Debug\Bit_Tower_of_doom.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\Bit_Tower_of_doom\obj\Debug\Bit_Tower_of_doom.pdb
+C:\Users\Dobromira\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\Bit_Tower_of_doom\bin\Debug\Bit_Tower_of_doom.exe.config
+C:\Users\Dobromira\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\Bit_Tower_of_doom\obj\Debug\Bit_Tower_of_doom.exe
+C:\Users\Dobromira\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\Bit_Tower_of_doom\obj\Debug\Bit_Tower_of_doom.pdb

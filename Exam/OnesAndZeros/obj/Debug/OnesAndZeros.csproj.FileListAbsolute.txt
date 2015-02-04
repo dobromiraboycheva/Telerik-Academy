@@ -1,0 +1,7 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\OnesAndZeros\bin\Debug\OnesAndZeros.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\OnesAndZeros\bin\Debug\OnesAndZeros.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\OnesAndZeros\obj\Debug\OnesAndZeros.csprojResolveAssemblyReference.cache
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\OnesAndZeros\obj\Debug\OnesAndZeros.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\OnesAndZeros\obj\Debug\OnesAndZeros.pdb
+C:\Users\Dobromira\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\OnesAndZeros\obj\Debug\OnesAndZeros.exe
+C:\Users\Dobromira\Documents\Visual Studio 2013\TelerikAcademy\Introduction_to_Programming\Exam\OnesAndZeros\obj\Debug\OnesAndZeros.pdb
